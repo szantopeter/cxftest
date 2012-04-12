@@ -1,3 +1,6 @@
-This project demonstrates how to build a simple CXF webservice using SOAP (JAX-WS) or REST (JAX-RS)
+This project demonstrates how to build a simple CXF webservice using SOAP (JAX-WS) or REST (JAX-RS). Additionally it is using 
+ - CXF proxy clients for SOAP and REST
+ - Spring Security
+ - Spring bean validation, JSR 303
 
 To start the project type mvn jetty:run or mvn tomcat:run
